@@ -1,0 +1,319 @@
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset="utf-8"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title> BdJSO Online 2021 | BdJSO Online<title/>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <meta name="description" content="BdJSO Online Platform.">
+    <meta name="keyword" content="bdjso, bdjso online, online olympiad, বাংলাদেশ জুনিয়র সায়েন্স অলিম্পিয়াড, Bangladesh Junior Science Olympiad, বাংলাদেশ বিজ্ঞান জনপ্রিয়করণ সমিতি, বিজ্ঞান, BdJSO Online, সাইন্স, অনলাইন প্রতিযোগীতা">
+    <meta name="theme-color" content="#fa3c4b">
+    
+    <meta property="og:type" content="website" />
+    
+    <!-- Facebook Meta -->
+    <meta property="og:url" content="https://online.bdjso.org/" />
+    <meta property="og:title" content=" BdJSO Online 2021  | BdJSO Online" />
+    <meta property="og:site_name" content="BdJSO Online" />
+    <meta property="og:description" content="BdJSO Online 2021 Contest Platform." />
+    <meta property="og:image" content="/img/bdjso-social-banner.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    
+    <!--canonical link-->
+    <link rel="canonical" href="https://online.bdjso.org/">
+
+    <!-- Shortcut Icon -->
+    <link rel="shortcut icon" href="/img/favicon.png">
+    <link rel="icon" type="image/ico" href="/img/favicon.png" />
+    <link type="text/plain" rel="author" href="/humans.txt" />
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="iwDSXZdbypZnIdP2UmPNW7onvSf5oMx8VqFCn0tG">
+    
+    <!--     Fonts and icons     -->
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+Bengali+UI&display=swap" rel="stylesheet" />
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+
+    <script type="text/javascript"
+            src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="/css/frontend.css?id=8d5525b485ce228d5383">
+    <style> body { font-family: "Noto Sans", "Noto Sans Bengali UI", Arial, Helvetica, sans-serif; } .description{color:#333;}</style>
+    <style>.sticky{position:-webkit-sticky;position:sticky;top:0;padding:20px;text-align:center;z-index:1100;max-width:500px;margin:auto}.timer_box{background:#2ca8ff;color:#fff;padding:10px;font-size:1.2em;border:1px solid #f9f9f9;margin-top:5px}body{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}p{font-size:1em !important;}</style>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B957SBDK03"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-B957SBDK03');
+    </script>
+</head>
+
+<body class=" sidebar-collapse">
+
+    <!-- Header Block -->
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg fixed-top bg-primary navbar-transparent" color-on-scroll="400">
+        <div class="container">
+            <div class="navbar-translate">
+                <a class="navbar-brand" href="/" rel="tooltip" title="Online Contest Platform" data-placement="bottom">
+                    <img src="/img/bdjso_logo.jpg" style="max-height:40px;" alt="BdJSO Online">
+                    BdJSO Online
+                </a>
+                <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-bar top-bar"></span>
+                    <span class="navbar-toggler-bar middle-bar"></span>
+                    <span class="navbar-toggler-bar bottom-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse justify-content-end" id="navigation" data-nav-image="/vendor/now-ui-kit/img/blurred-image-1.jpg">
+                <ul class="navbar-nav">
+
+                                        <li class="nav-item">
+                        <a class="nav-link btn btn-neutral" href="#">
+                            <i class="now-ui-icons users_single-02"></i>
+                            <strong>405527</strong>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-warning" href="logout.php">
+                            <i class="now-ui-icons sport_user-run"></i> <strong>Logout</strong>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End Navbar -->
+
+    <!-- / Header Block -->
+
+    <div class="wrapper">
+
+        <div class="page-header page-header-small">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('/img/cover-02.jpg');">
+            </div>
+            <div class="content-center">
+                <div class="container">
+                    <h1 class="title text-center" style="font-size:2.5em;">
+                        BdJSO 2021 Mock Olympiad 2 (Junior)                    </h1>
+                    <h3 class="category">
+                        বাংলাদেশ জুনিয়র সায়েন্স অলিম্পিয়াডে স্বাগতম<br>
+                                            </h3>
+
+                                        <div class="card">
+                        <div class="card-body">
+                            <p class="alert alert-warning mb-0" style="font-weight:bold;">
+                                Question is only available within the contest period!                            </p>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="section section-about-us">
+            <div class="container">
+                                <div class="alert alert-primary">
+                    <ul>
+                        <li>
+                            সকল প্রশ্নের মান সমান। সকল সংখ্যা ইংরেজিতে লেখা হয়েছে। লিখিত প্রশ্নের উত্তরে একক বাদে শুধুমাত্র সংখ্যাটি লিখে উত্তর সাবমিট করতে হবে।
+                        </li>
+                    </ul>
+                </div>
+            
+                
+                
+                <div class="separator separator-primary"></div>
+            </div>
+        </div>
+
+        <!-- Footer block -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <a href="/">
+                            BdJSO Online
+                        </a>
+                        &nbsp;
+                        <a href="http://bdjso.org" target="_blank">
+                            About Us
+                        </a>
+                        <br>
+                        <div class="small" style="font-size:.9em;">
+                            © 2021, Bangladesh Junior Science Olympiad
+                            <br>
+                            Developed by <a href="https://nasirkhn.com" target="_blank">Nasir Khan Saikat</a>
+                            <br>
+                            Hosting Support: <a href="https://www.nixtecsys.com/" target="_blank">Nixtec Systems</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- / Footer block -->
+    </div>
+</body>
+
+<!-- Scripts -->
+
+<script src="/js/frontend.js"></script>
+
+<script type="text/javascript">
+
+// $( document ).ready(function() {
+// 	var accesstoken = getCookie('accesstoken');
+//
+// 	if(accesstoken == '') {
+// 		$( ".button_login" ).show();
+// 		$( ".button_participate" ).hide();
+// 	} else {
+// 		$( ".button_participate" ).show();
+// 		$( ".button_login" ).hide();
+// 	}
+//     console.log( accesstoken );
+// });
+
+function getCookie(cname) {
+	var name = cname + "=";
+	var decodedCookie = decodeURIComponent(document.cookie);
+	var ca = decodedCookie.split(';');
+	for(var i = 0; i <ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0) == ' ') {
+			c = c.substring(1);
+		}
+		if (c.indexOf(name) == 0) {
+			return c.substring(name.length, c.length);
+		}
+	}
+	return "";
+}
+
+</script>
+
+<script>
+$(document).ready(function(){
+    $("form").submit(function(e){
+        e.preventDefault();
+
+        formId = $('form').attr('id');
+    });
+});
+
+function buttonSubmit(formId) {
+    var formId_value = formId;
+    var actionurl = 'submission.php';
+    var form_id = "#form-"+formId;
+    var accesstoken = getCookie('accesstoken');
+    var data = $(form_id).serialize() + "&accesstoken="+accesstoken+"&formId="+formId_value;
+    // var answer_value = $(form_id+' input[name="answer"]').val();
+    var answer_value = $('.'+formId_value+'answer_field').val();
+    var answer_value_1 = $('.'+formId_value+'answer_field_1').val();
+    var answer_value_2 = $('.'+formId_value+'answer_field_2').val();
+    var answer_value_3 = $('.'+formId_value+'answer_field_3').val();
+    var answer_value_4 = $('.'+formId_value+'answer_field_4').val();
+
+    // console.log('Submission');
+    // console.log(formId);
+    // console.log(data);
+    // console.log(answer_value);
+
+    if (answer_value || answer_value_1 || answer_value_2 || answer_value_3 || answer_value_4) {
+        $.ajax({
+            type: "POST",
+            url: actionurl,
+            data: data,
+            success: function (data) {
+
+                if (data.status == 'success') {
+                    var title = data.status;
+
+                    $("#info-"+data.formId).css('display', 'block');
+                    $("#info-"+data.formId).text();
+                    $("#info-"+data.formId).text("Ans: "+data.message);
+
+                    iziToast.success({
+                        title: title.toUpperCase(),
+                        message: data.message
+                    });
+                } else if (data.status == 'error') {
+                    var title = data.status;
+
+                    iziToast.error({
+                        title: title.toUpperCase(),
+                        message: data.message
+                    });
+                } else {
+                    // console.log(data);
+                }
+                // console.log(data);
+
+            },
+            error: function (jqXhr, textStatus, errorMessage) {
+                console.log("Error: ", errorMessage);
+                iziToast.error({
+                    title: 'Submission Failed! Please refresh the page!',
+                    message: errorMessage
+                });
+            }
+        });
+    } else {
+        iziToast.error({
+            title: 'Failed!',
+            message: 'No Value Submitted!'
+        });
+    }
+
+}
+
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+// Set the date we're counting down to
+var countDownDate = new Date("2021-08-04 12:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+    // Get today's date and time
+    var now = new Date().getTime();
+
+    // Find the distance between now and the count down date
+    var distance = countDownDate - now;
+
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Output the result in an element with id="demo"
+    document.getElementById("countdown_timer").innerHTML = hours + "h "
+    + minutes + "m " + seconds + "s ";
+
+    // If the count down is over, write some text
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("countdown_timer").innerHTML = "EXPIRED";
+    }
+}, 1000);
+</script>
+
+</html>
